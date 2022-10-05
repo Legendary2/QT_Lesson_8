@@ -1,0 +1,6 @@
+New - click to create a new file;
+Open - click to open an existing file;
+Save - click save the entered text;
+Save As - click to save the entered text to a file in the format selected by the user;
+Close - click to close the file.
+Help - click to open the help for the program.
